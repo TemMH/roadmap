@@ -10,7 +10,7 @@
           {
             "id": "9070cef6bf3490a4",
             "type": "tabs",
-            "dimension": 65.4196157735086,
+            "dimension": 73.40748230535895,
             "children": [
               {
                 "id": "3d5b827af1c1aed5",
@@ -48,7 +48,7 @@
           {
             "id": "fd3c322922c014a6",
             "type": "tabs",
-            "dimension": 34.580384226491404,
+            "dimension": 26.59251769464105,
             "children": [
               {
                 "id": "be9603a64e54769a",
@@ -86,7 +86,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: ✳ Obsidian Progress Bug"
+                  "title": "Terminal: ✳ Formatting document with checkboxes"
                 }
               }
             ]
@@ -257,12 +257,12 @@
   },
   "active": "4f5be0c25e1ad63a",
   "lastOpenFiles": [
+    "stages/stage-1-testovoe.md",
     "stages/stage-4-job-search.md",
     "stages/stage-3-hr-interview.md",
     "stages/stage-2-tech-interview.md",
     "GIT_WORKFLOW.md",
     "00-START-HERE.md",
-    "stages/stage-1-testovoe.md",
     "README.md",
     "progress/notes.md",
     "progress/questions.md",
