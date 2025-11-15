@@ -10,7 +10,7 @@
           {
             "id": "9070cef6bf3490a4",
             "type": "tabs",
-            "dimension": 75.83417593528817,
+            "dimension": 65.4196157735086,
             "children": [
               {
                 "id": "3d5b827af1c1aed5",
@@ -34,12 +34,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "stages/stage-4-job-search.md",
+                    "file": "stages/stage-1-testovoe.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "stage-4-job-search"
+                  "title": "stage-1-testovoe"
                 }
               }
             ],
@@ -48,7 +48,7 @@
           {
             "id": "fd3c322922c014a6",
             "type": "tabs",
-            "dimension": 24.16582406471183,
+            "dimension": 34.580384226491404,
             "children": [
               {
                 "id": "be9603a64e54769a",
@@ -257,16 +257,18 @@
   },
   "active": "4f5be0c25e1ad63a",
   "lastOpenFiles": [
-    "stages/stage-3-hr-interview.md",
-    "stages/stage-2-tech-interview.md",
-    "stages/stage-1-testovoe.md",
     "GIT_WORKFLOW.md",
     "00-START-HERE.md",
-    "stages/stage-4-job-search.md",
-    "_START_HERE.md",
+    "stages/stage-1-testovoe.md",
+    "stages/stage-2-tech-interview.md",
+    "stages/stage-3-hr-interview.md",
+    "README.md",
     "progress/notes.md",
     "progress/questions.md",
+    "resources/links.md",
     "resources/templates/stage-template.md",
+    "stages/stage-4-job-search.md",
+    "_START_HERE.md",
     "QUICK_START.md"
   ]
 }
