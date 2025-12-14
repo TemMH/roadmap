@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "stage-1-testovoe"
             }
+          },
+          {
+            "id": "417426fbdf40ab55",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +197,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "3d5b827af1c1aed5",
+  "active": "417426fbdf40ab55",
   "lastOpenFiles": [
     "README.md",
     "stages/stage-1-testovoe.md",
